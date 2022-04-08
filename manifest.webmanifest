@@ -1,9 +1,9 @@
 {
-  "name": "PWA",
-  "short_name": "PWA",
+  "name": "Cristiano Unit3-04 PWA",
+  "short_name": "Cristiano Unit3-04 PWA",
   "description": "A PWA Test",
-  "scope": "/<RESPITORY>/",
-  "start_url": "/<RESPITORY>/",
+  "scope": "/ICS2O-Unit3-04-HTML-PWA/",
+  "start_url": "/ICS2O-Unit3-04-HTML-PWA/",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
   "display": "standalone", 
